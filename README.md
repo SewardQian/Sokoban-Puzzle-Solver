@@ -1,5 +1,6 @@
 # Sokoban-Puzzle-Solver
 Assignment for Artificial Intelligenc CSC384
+Note that the sokoban environment was provided for the course. The heuristics that I implemented are in solutions.py
 Implemented a cost heuristic to prune/optimize tree search to solve Sokoban Puzzle within time contraint.
 
 A few ways that cost heuristic operated:
